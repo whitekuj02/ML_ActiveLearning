@@ -1,1 +1,3 @@
-"# ML_active_07" 
+# ML_active_07
+
+머신러닝 Active Learning
